@@ -1,6 +1,8 @@
 # 12th-project-Bank-Management-System
 C++ investigatory project 12th 
 					OUTPUT
+					
+					
  ![image](https://user-images.githubusercontent.com/54714942/124341554-caff1400-dbda-11eb-9e75-4d4c5dcd9f40.png)
  
 ![image](https://user-images.githubusercontent.com/54714942/124341555-cfc3c800-dbda-11eb-80ca-ec84e02c2d01.png)
